@@ -1,1 +1,3 @@
 This is test2.txt
+
+Add new line to test new branch.
