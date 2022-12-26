@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 
 modify conflict.txt on master
-=======
-modify conflict.txt on test-conflict
->>>>>>> test-conflict
