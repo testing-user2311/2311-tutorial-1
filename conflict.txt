@@ -1,4 +1,3 @@
-
 <<<<<<< HEAD
 modify conflict.txt on master
 =======
