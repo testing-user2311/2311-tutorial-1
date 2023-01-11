@@ -1,1 +1,3 @@
 This is test1.txt.
+
+Add on Eclipse to test merge.
